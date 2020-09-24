@@ -1212,7 +1212,7 @@ body.section-switching.up .animation-block{
 	font-style:italic;
 	color:rgba(0,0,0,.4);
 	margin:0;
-	margin-top:5px;
+	margin-top:21px;
 }
 @media(min-width:992px){
 	.contact-info-icons{
@@ -1413,4 +1413,7 @@ body.loaded #preloader .loader{
 		padding:40px;
 		padding-top:0;
 	}
+}
+#contact > p {
+	margin-top: 12px;
 }
